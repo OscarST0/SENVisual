@@ -17,6 +17,17 @@ body{
     color: white;
 }
 
+@import url('https://fonts.cdnfonts.com/css/tv-globo-1976');
+
+h4{
+    font-family: 'TV-Globo-1976', sans-serif;
+}
+
+h1{
+    font-family: 'TV-Globo-1976', sans-serif;
+    font-size: 10px;
+}
+
 :root{
     --color: #17a2ff;
 }
@@ -81,6 +92,27 @@ body{
 }
 
 .mouthopener{
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.min{
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.com{
     align-self: center;
     align-content: center;
     text-align: center;
